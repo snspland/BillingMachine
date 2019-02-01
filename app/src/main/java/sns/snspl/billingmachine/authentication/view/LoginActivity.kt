@@ -6,6 +6,7 @@ import sns.snspl.billingmachine.R
 
 class LoginActivity : AppCompatActivity() {
 
+    //ss
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
