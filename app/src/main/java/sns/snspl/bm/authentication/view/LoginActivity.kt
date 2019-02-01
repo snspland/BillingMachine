@@ -1,8 +1,8 @@
-package sns.snspl.billingmachine.authentication.view
+package sns.snspl.bm.authentication.view
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import sns.snspl.billingmachine.R
+import sns.snspl.bm.R
 
 class LoginActivity : AppCompatActivity() {
 

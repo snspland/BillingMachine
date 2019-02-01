@@ -1,4 +1,4 @@
-package sns.snspl.billingmachine
+package sns.snspl.bm
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package sns.snspl.billingmachine
+package sns.snspl.bm
 
 import org.junit.Test
 
